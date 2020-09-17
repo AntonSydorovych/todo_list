@@ -1,0 +1,20 @@
+.simpleTask {
+    margin: 30px;
+    width: 200px;
+    text-align: center;
+    margin: 0 auto;
+    /*display: flex;*/
+}
+
+.simpleTask > button {
+    margin: 10px;
+}
+
+.taskMessage {
+    border: 1px solid black;
+}
+
+.taskIsDone {
+    color: antiquewhite;
+    text-decoration: line-through red;
+}
